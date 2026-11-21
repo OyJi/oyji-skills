@@ -1,0 +1,10 @@
+{
+  "name": "oyji-skills",
+  "version": "0.1.0",
+  "description": "Eleven skills for the OyJI MCP: creatures and locations, product photoshoots, marketplace cards, narrated video, thumbnails, websites, brand kits, face profile.",
+  "author": { "name": "OyJI", "url": "https://oyji.org" },
+  "homepage": "https://oyji.org",
+  "repository": "https://github.com/OyJi/oyji-skills",
+  "license": "MIT",
+  "keywords": ["oyji", "image", "video", "kazakh", "marketplace", "branding"]
+}

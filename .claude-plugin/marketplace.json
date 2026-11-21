@@ -1,0 +1,25 @@
+{
+  "name": "oyji",
+  "owner": {
+    "name": "OyJI",
+    "url": "https://oyji.org"
+  },
+  "metadata": {
+    "description": "Skills for making realistic AI images, video and content with the OyJI MCP (Kazakh, Russian, English).",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "oyji-skills",
+      "source": "./plugins/oyji-skills",
+      "description": "Eleven skills for the OyJI MCP: creatures and locations, product photoshoots, marketplace cards, narrated video, thumbnails, websites, brand kits, face profile.",
+      "version": "0.1.0",
+      "author": { "name": "OyJI", "url": "https://oyji.org" },
+      "homepage": "https://oyji.org",
+      "repository": "https://github.com/OyJi/oyji-skills",
+      "license": "MIT",
+      "keywords": ["oyji", "image", "video", "kazakh", "marketplace", "branding", "seedance", "nano-banana"],
+      "category": "creative"
+    }
+  ]
+}
